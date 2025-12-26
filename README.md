@@ -1,4 +1,4 @@
-
+<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/66109f9b-3bdd-42f5-b004-4c391890ca0a" />
 # 🔐 CryptoVault Pro
 
 A modern, secure, and user-friendly file encryption and decryption tool with a professional GUI.
@@ -23,7 +23,8 @@ A modern, secure, and user-friendly file encryption and decryption tool with a p
 
 ## 🖥️ Screenshots
 
-> _Add your own screenshots here!_
+<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/f9a5f1ad-7eec-4d71-bffd-1bbf53f5786a" />
+
 
 ---
 
