@@ -125,7 +125,7 @@ MIT License
 
 ## 👤 Author
 
-- Developed by WebVajhegan
+- Developed by AliHeydari
 - Contributions welcome!
 
 ---
